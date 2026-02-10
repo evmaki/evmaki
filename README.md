@@ -9,4 +9,4 @@ I've always felt like 256 MB was more than enough to do cool stuff. I've worked 
 Now I'm at [Moonshine AI](https://github.com/moonshine-ai/moonshine), creating speech recognition, text-to-speech, and reasoning models that are still small enough to run on my first computer.
 
 ![GitHub stars](https://img.shields.io/github/stars/moonshine-ai/moonshine?affiliations=OWNER&style=social)
-![Google Scholar](https://img.shields.io/badge/Citations-123-blue?logo=Google%20Scholar&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/Citations-172-blue?logo=Google%20Scholar&logoColor=white)
